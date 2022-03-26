@@ -1,0 +1,24 @@
+{
+  "name": "todoexpress",
+  "version": "1.0.0",
+  "description": "todoexpress",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    // "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "expresss": "^0.0.0",
+    "fas": "^0.3.6",
+    "mongodb": "^4.4.1",
+    "node": "^17.7.1"
+  }
+}
